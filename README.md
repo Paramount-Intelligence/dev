@@ -235,7 +235,10 @@ frontend
 
 # Screenshots / Demo
 
-Add screenshots or a demo link here.
+Demo link (video and screenshots): https://drive.google.com/drive/folders/1jdyPMXZRlsrGs87RgnEvb7A6D-CvlHCW?usp=sharing
+
+Deployment link (vercel frontend): https://intern-workflow-management.vercel.app/
+Backend link (Render): https://intern-workflow-management.onrender.com/api/interns
 
 Example
 
@@ -244,6 +247,11 @@ Example
 • Edit Intern Record  
 
 ---
+### Technical Implementation Notes
+- **Virtual IDs:** Implemented Mongoose virtuals to provide a clean `id` field to the frontend while maintaining `_id` in MongoDB Atlas.
+- **Search Logic:** Leveraged MongoDB `$regex` with the `i` option for case-insensitive partial name/email matching.
+- **CORS & Deployment:** Configured dynamic CORS and environment variables to allow secure communication between Render (Backend) and Vercel (Frontend).
+
 
 # Future Improvements
 

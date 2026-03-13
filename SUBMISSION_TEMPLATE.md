@@ -1,11 +1,11 @@
 # Candidate Submission Template
 
 ## Candidate Information
-- Full Name:
-- Email:
-- GitHub Profile Link:
-- Demo Link (if deployed):
-- Submission Date:
+- Full Name: Mohammad Irfan Ullah
+- Email: irfaanexe@gmail.com
+- GitHub Profile Link: https://github.com/IrfaanDS
+- Demo Link (if deployed): https://intern-workflow-management.vercel.app/
+- Submission Date: 13-03-2026
 
 ## Backend (Node + Express)
 
