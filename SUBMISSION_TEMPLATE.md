@@ -1,29 +1,29 @@
 # Candidate Submission Template
 
 ## Candidate Information
-- Full Name:
-- Email:
-- GitHub Profile Link:
+- Full Name: Muhammad Yousuf
+- Email: mohammad30yousuf30@gmail.com
+- GitHub Profile Link: https://github.com/Yousuf-Ghafoor
 - Demo Link (if deployed):
-- Submission Date:
+- Submission Date: 14-03-2026
 
 ## Backend (Node + Express)
 
 ### API Endpoints Implemented:
 1. **POST /api/interns**:
-   - [ ] Created intern functionality.
+   - [x] Created intern functionality.
 2. **GET /api/interns**:
-   - [ ] Search/filter/pagination functionality.
+   - [x] Search/filter/pagination functionality.
 3. **GET /api/interns/:id**:
-   - [ ] Fetch single intern.
+   - [x] Fetch single intern.
 4. **PATCH /api/interns/:id**:
-   - [ ] Update intern.
+   - [x] Update intern.
 5. **DELETE /api/interns/:id**:
-   - [ ] Delete intern.
+   - [x] Delete intern.
 
 ### Error Handling
-- [ ] Centralized error middleware implemented.
-- [ ] Handled validation errors, duplicate email, invalid MongoDB ObjectId errors.
+- [x] Centralized error middleware implemented.
+- [x] Handled validation errors, duplicate email, invalid MongoDB ObjectId errors.
 
 ## Frontend (React)
 
