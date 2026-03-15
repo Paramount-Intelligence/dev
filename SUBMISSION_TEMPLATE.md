@@ -3,8 +3,8 @@
 ## Candidate Information
 - Full Name: Omer Faisal
 - Email: official.omerfaisal@gmail.com
-- GitHub Profile Link: 
-- Demo Link (if deployed): 
+- LinkedIn: https://www.linkedin.com/in/omer-faisal-ab382425b/
+- GitHub: https://github.com/Omer-443
 - Submission Date: 2026-03-15
 
 ## Backend (Node + Express)
