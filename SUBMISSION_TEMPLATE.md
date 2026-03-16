@@ -1,11 +1,11 @@
 # Candidate Submission Template
 
 ## Candidate Information
-- Full Name:
-- Email:
-- GitHub Profile Link:
-- Demo Link (if deployed):
-- Submission Date:
+- Full Name: Abdullah Khan
+- Email: abdullahejazkhan14@gmail.com
+- GitHub Profile Link: https://github.com/abdullahejazkhan
+- Demo Link ( Video Demo): https://drive.google.com/drive/folders/1LGP_b4WAawLJJk7ANmqnsQb8yaerr3Zi?usp=sharing
+- Submission Date: 15-03-2026
 
 ## Backend (Node + Express)
 
