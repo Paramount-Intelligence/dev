@@ -1,10 +1,9 @@
 # Candidate Submission Template
 
 ## Candidate Information
-- Full Name: Adeeb
-- Email: [Provided on account]
+- Full Name: Adeeb Ur Rahman
+- Email: adeeburrahmankhuhro@gmail.com
 - GitHub Profile Link: https://github.com/adeeb-ctrl
-- Demo Link: N/A (Local)
 - Submission Date: 2026-03-16
 
 ## Backend (Node + Express)
