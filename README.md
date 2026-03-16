@@ -235,7 +235,7 @@ frontend
 
 # Screenshots / Demo
 
-Add screenshots or a demo link here.
+Demo link (video and screenshots): https://drive.google.com/drive/folders/1LGP_b4WAawLJJk7ANmqnsQb8yaerr3Zi?usp=sharing
 
 Example
 
@@ -251,6 +251,14 @@ Example
 • Advanced analytics dashboard  
 • Export intern reports  
 • Integration with recruitment platforms  
+
+---
+
+
+# Logical Explanation:
+Virtual IDs: Implemented Mongoose virtuals to provide a clean id field to the frontend while maintaining _id in MongoDB Atlas.
+Search Logic: Leveraged MongoDB $regex with the i option for case-insensitive partial name/email matching.
+CORS & Deployment: Configured dynamic CORS and environment variables to allow secure communication between Render (Backend) and Frontend too.
 
 ---
 
