@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+.sixth/
+intern/node_modules/
+intern/build/
+intern/.git/
+=======
 # Dependencies
 node_modules/
 client/node_modules/
@@ -18,3 +29,20 @@ npm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+>>>>>>> d9662570c4d7a58e48aaacbc64eed3374d4e1fee
+node_modules/
+client/node_modules/
+server/node_modules/
+dist/
+build/
+client/build/
+intern/build/
+.env
+client/.env
+server/.env
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.sixth/
+intern/.git/
